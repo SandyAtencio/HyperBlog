@@ -1,5 +1,6 @@
 Esto es un ejemplo de la utilizacion de Git
 
-Git es manejador de control de versiones
+Git es manejador de control de versiones y sirve
+para trabajar en equipo
 
 Y en este documento se tratara todo sobre Git
