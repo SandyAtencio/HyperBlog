@@ -4,3 +4,5 @@ Git es manejador de control de versiones y sirve
 para trabajar en equipo
 
 Y en este documento se tratara todo sobre Git
+
+Cuando utilizas git con tu equipo es increible
