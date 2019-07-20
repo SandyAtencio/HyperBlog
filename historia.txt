@@ -6,3 +6,5 @@ para trabajar en equipo
 Y en este documento se tratara todo sobre Git
 
 Cuando utilizas git con tu equipo es increible
+
+Hoy es el mas usado por programadores
